@@ -1,3 +1,3 @@
 ﻿  Source.cpp
-Source.obj : error LNK2019: unresolved external symbol __imp__al_init_primitives_addon referenced in function _main
-c:\users\game110pm\source\repos\ALLEGRO Pac Man\Debug\ALLEGRO Pac Man.exe : fatal error LNK1120: 1 unresolved externals
+c:\users\game110pm\source\repos\allegro pac man\allegro pac man\source.cpp(245): warning C4715: 'wallCollide': not all control paths return a value
+  ALLEGRO Pac Man.vcxproj -> C:\Users\game110pm\source\repos\ALLEGRO Pac Man\Debug\ALLEGRO Pac Man.exe
